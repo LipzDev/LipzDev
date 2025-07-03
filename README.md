@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou [Filipe Gomes]!</h1>
+<h1 align="center">👋 Olá, eu sou Filipe Gomes!</h1>
 
 <p align="center">
   Desenvolvedor Front-End Pleno | React.js • Next.js • TypeScript
@@ -50,12 +50,12 @@ Sou um desenvolvedor front-end com experiência em construção de interfaces mo
 
 Se você quiser trocar ideias, colaborar em projetos ou apenas bater um papo técnico, sinta-se à vontade para me chamar!
 
-📧 seuemail@email.com  
-🌐 [[seuportifolio.com](https://lipzdev.vercel.app/)] 
-🔗 [[linkedin.com/in/seu-usuario](https://www.linkedin.com/in/lipzdev/)]
+📧 contato.devweb@hotmail.com  
+🌐 [[Portfolio](https://lipzdev.vercel.app/)] 
+🔗 [[Linkedin](https://www.linkedin.com/in/lipzdev/)]
 
 ---
 
 <p align="center">
-  Feito com 💙 por [Filipe Dev]
+  Feito com 💙 por Filipe Dev
 </p>

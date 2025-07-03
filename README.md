@@ -51,7 +51,6 @@ Sou um desenvolvedor front-end com experiência em construção de interfaces mo
 Se você quiser trocar ideias, colaborar em projetos ou apenas bater um papo técnico, sinta-se à vontade para me chamar!
 
 📧 contato.devweb@hotmail.com  
-🌐 [[Portfolio](https://lipzdev.vercel.app/)] 
 🔗 [[Linkedin](https://www.linkedin.com/in/lipzdev/)]
 
 ---

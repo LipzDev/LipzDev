@@ -42,7 +42,7 @@ Sou um desenvolvedor front-end com experiência em construção de interfaces mo
 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
-| 🔗 [StudyBlog](https://github.com/LipzDev/study-blog-web) | Plataforma de blog com autenticação e painel de admin. | Next.js, TypeScript, Tailwind entre outras...
+| 🔗 [StudyBlog](https://github.com/LipzDev/study-blog-web) | Uma plataforma moderna para compartilhar conhecimento e experiências de estudo. Desenvolvida com Next.js, TypeScript e Tailwind CSS, oferece uma experiência completa para criar, gerenciar e consumir conteúdo educacional, ainda em criação...
 
 ---
 

@@ -46,15 +46,6 @@ Sou um desenvolvedor front-end com experiência em construção de interfaces mo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-user&show_icons=true&theme=react&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-user&layout=compact&theme=react&hide_border=true" />
-</div>
-
----
-
 ## 📫 Vamos conversar?
 
 Se você quiser trocar ideias, colaborar em projetos ou apenas bater um papo técnico, sinta-se à vontade para me chamar!
